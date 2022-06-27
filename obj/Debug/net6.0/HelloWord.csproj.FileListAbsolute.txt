@@ -1,0 +1,15 @@
+/Users/albamolerachacon/Desktop/HelloWord/bin/Debug/net6.0/HelloWord
+/Users/albamolerachacon/Desktop/HelloWord/bin/Debug/net6.0/HelloWord.deps.json
+/Users/albamolerachacon/Desktop/HelloWord/bin/Debug/net6.0/HelloWord.runtimeconfig.json
+/Users/albamolerachacon/Desktop/HelloWord/bin/Debug/net6.0/HelloWord.dll
+/Users/albamolerachacon/Desktop/HelloWord/bin/Debug/net6.0/HelloWord.pdb
+/Users/albamolerachacon/Desktop/HelloWord/obj/Debug/net6.0/HelloWord.csproj.AssemblyReference.cache
+/Users/albamolerachacon/Desktop/HelloWord/obj/Debug/net6.0/HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albamolerachacon/Desktop/HelloWord/obj/Debug/net6.0/HelloWord.AssemblyInfoInputs.cache
+/Users/albamolerachacon/Desktop/HelloWord/obj/Debug/net6.0/HelloWord.AssemblyInfo.cs
+/Users/albamolerachacon/Desktop/HelloWord/obj/Debug/net6.0/HelloWord.csproj.CoreCompileInputs.cache
+/Users/albamolerachacon/Desktop/HelloWord/obj/Debug/net6.0/HelloWord.dll
+/Users/albamolerachacon/Desktop/HelloWord/obj/Debug/net6.0/refint/HelloWord.dll
+/Users/albamolerachacon/Desktop/HelloWord/obj/Debug/net6.0/HelloWord.pdb
+/Users/albamolerachacon/Desktop/HelloWord/obj/Debug/net6.0/HelloWord.genruntimeconfig.cache
+/Users/albamolerachacon/Desktop/HelloWord/obj/Debug/net6.0/ref/HelloWord.dll
